@@ -1,10 +1,10 @@
 /* style.css */
 
-/* Set the background color to crimson */
+
 body {
   background-color: #262626;
-  color: white; /* Text color */
-  font-family: Arial, sans-serif; /* Use a common font for readability */
+  color: white; 
+  font-family: Arial, sans-serif; 
 }
 
 /* Style the navigation menu */
@@ -19,7 +19,7 @@ ul {
 
 ul li {
   display: inline;
-  margin-right: 100px; /* Add some spacing between menu items */
+  margin-right: 100px; /* Add spacing between menu items */
 }
 
 ul li a {
