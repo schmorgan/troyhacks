@@ -1,0 +1,134 @@
+/* style.css */
+
+/* Set the background color to crimson */
+body {
+  background-color: #262626;
+  color: white; /* Text color */
+  font-family: Arial, sans-serif; /* Use a common font for readability */
+}
+
+/* Style the navigation menu */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #3f3f3f;
+  text-align: center;
+}
+
+ul li {
+  display: inline;
+  margin-right: 100px; /* Add some spacing between menu items */
+}
+
+ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+/* Style the heading */
+h1 {
+  text-align: center;
+  margin-top: 20px; /* Add space above the heading */
+  font-family: "Monaco";
+  font-size: 30;
+}
+
+
+/* Style the content */
+pre {
+  text-align: center;
+  margin: 20px;
+  font-size: 20px;
+}
+
+/* Style the register button */
+button {
+  display: block;
+  margin: 20px auto;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Change button appearance on hover */
+button:hover {
+  background-color: #c41e3a;
+}
+  
+.class {
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.sponsors-page {
+	margin: 0;
+    padding: 0;
+}
+
+
+.centered-images {
+    display: flex;
+    flex-direction: column;
+	justify-content: center;
+    align-items: center;
+}
+
+/* /* Style for each sponsor image container */
+.sponsorimages {
+    text-align: center;
+	justify-content: center;
+    align-items: center;
+    /*margin-bottom: 20px;*/
+} 
+
+
+/* Style for the sponsor image */
+.sponsorimages img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Style for the sponsor description */
+.desc {
+    font-size: 20px;
+    color: #c41e3a;
+}
+
+p {
+  font-size: 20px;
+  color: #c41e3a;
+  margin-bottom: 25px;
+}
+
+h2 {
+	text-align: center; 
+	margin: 10px; 
+}
+
+/* Center the h2 element */
+.scheduleofevents h2 {
+  text-align: center;
+}
+
+/* Display h3 and p inline with each other */
+.scheduleofevents h3, .scheduleofevents p {
+  display: block;
+  margin: 0 auto; /* Remove default margins */
+  text-align: center; 
+}
+
+h2 {
+	font-family: "Monaco";
+	font-size: 25px;
+}
+
+.scheduleofevents p {
+	padding-bottom: 15px; 
+}
