@@ -23,7 +23,7 @@ ul li {
 }
 
 ul li a {
-  text-decoration: none;
+  font-family: "Monaco";
   color: #c41e3a;
 }
 
