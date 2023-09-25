@@ -129,6 +129,8 @@ h2 {
 
 .questions p {
 	padding-bottom: 10px;
+	font-family: "Monaco";
+  	color: #c41e3a;
 }
 /* Display h3 and p inline with each other */
 .scheduleofevents h3, .scheduleofevents p {
