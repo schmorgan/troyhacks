@@ -123,7 +123,13 @@ h2 {
 .scheduleofevents h2 {
   text-align: center;
 }
+.questions h2, .questions p {
+	text-align: center;
+}
 
+.questions p {
+	padding-bottom: 10px;
+}
 /* Display h3 and p inline with each other */
 .scheduleofevents h3, .scheduleofevents p {
   display: block;
