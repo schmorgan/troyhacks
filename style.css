@@ -43,7 +43,7 @@ pre {
   text-align: center;
   margin: 20px;
   font-size: 20px;
-	width: 100%;
+	max-width: 100%;
 }
 
 /* Style the register button */
