@@ -99,6 +99,9 @@ button:hover {
 .desc {
     font-size: 20px;
     color: #c41e3a;
+	padding-top: 10px; 
+	padding-bottom: 20px;
+	font-family: "Monaco";
 }
 
 p {
@@ -131,4 +134,9 @@ h2 {
 
 .scheduleofevents p {
 	padding-bottom: 15px; 
+}
+
+.thanks pre {
+	padding-top: 20px;
+	padding-bottom: 25px;
 }
